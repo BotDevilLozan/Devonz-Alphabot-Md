@@ -30,20 +30,20 @@ global.antidelete = true // anti delete
 global.antiviewonce = true // anti view once
 global.autobio = false //auto ganti bio
 global.anticall = true //anti call, jika true maka org yg nelpon bot auto di blokir
-global.userRegister = false
+global.userRegister = true
 global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
-global.autolevelup = true
+global.autolevelup = false 
 global.auto_antilink = false //jika true, bot (admin) otomatis menghapus pesan & mengeluarkan member yang mengirim link grup
-global.auto_antilink2 = true  //jika true, bot (admin) otomatis menghapus pesan member yang mengirim link grup
+global.auto_antilink2 = false  //jika true, bot (admin) otomatis menghapus pesan member yang mengirim link grup
 global.auto_badword = false //jika true, bot (admin) otomatis menghapus pesan & mengeluarkan member yg mengirim kata kasar
-global.auto_badword2 = true  //jika true, bot (admin) otomatis menghapus pesan member yang mengirim kata kasar
+global.auto_badword2 = false  //jika true, bot (admin) otomatis menghapus pesan member yang mengirim kata kasar
 global.auto_antiwame = false  //jika true, bot (admin) otomatis menghapus pesan & mengeluarkan member yang mengirim link grup
-global.auto_antiwame2 = true  //jika true, bot (admin) otomatis menghapus pesan member yang mengirim link grup
+global.auto_antiwame2 = false  //jika true, bot (admin) otomatis menghapus pesan member yang mengirim link grup
 global.autowelcome = true //auto welcome msg all group
 global.autodetectpromote = true //auto detect admin all group
 global.autodetectdemote = true //auto detect un admin all group
 global.autogoodbye = true //auto goodbye msg all group
-global.groupOnly = false //bot hanya bisa di gunakan dalam grup jika true
+global.groupOnly = true //bot hanya bisa di gunakan dalam grup jika true
 
 //language
 //Available in indonesia , english & spanyol 
@@ -54,13 +54,13 @@ global.language = english //change indonesia to english if you don't understand 
 
 // Other
 // Other
-global.botname = "𝐅𝐞𝐧ɨ𝐱𞋯 𝐌𝐨𝐭𝐢𝐨𝐧" //namabot kalian
-global.ownername = "𝐅𝐞𝐧ɨ𝐱𞋯 𝐌𝐨𝐭𝐢𝐨𝐧" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://s.id/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
-global.region = "Indonesia" //bebas
+global.botname = "𝐅𝐞𝐧ɨ𝐱𞋯" //namabot kalian
+global.ownername = "𝐌𝐎𝐓𝐈𝐎𝐍" //nama kalian
+global.myweb = "" //bebas asal jan hapus
+global.youtube = "" //bebas asal jan hapus
+global.myweb2 = "" //bebas
+global.email = "DL1999PL814KAD@Gmail.com" //bebas
+global.region = "COLOMBO" //bebas
 global.timezone = 'Asia/Makassar' //  timezone wib
 global.premium_fitur = ["ai", "openai", "chatgpt"] //tambahin aja sendiri, soalnya gk semua org mau fiturnya premium jadi gw buat kyk gini aja, biar bisa custom fitur mana aja yang bakal di jadiin premium
 global.badword_list = ["asu", "anjir"] //tambahin sendiri kata² nya, gunakan huruf kecil
@@ -305,7 +305,7 @@ global.mess = {
    private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
    bot: 'Fitur Khusus Pengguna Nomor Bot',
    errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
-   wait: '⏳ Sedang Di Proses',
+   wait: 'FENIX HAVENT',
    lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
    example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
