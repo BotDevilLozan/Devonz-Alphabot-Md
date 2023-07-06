@@ -297,7 +297,7 @@ exports.BotSelf = () => {
     return `Successfully Change To Self Mode\n\nTo change to public mode, please use the bot number`
 }
 exports.NoToStik = (prefix, command) => {
-    return `Send/Reply Image/Video With Caption ${prefix + command}\n\nVideo Sticker Duration 1-9 Seconds`
+    return `FUCK BITCH  ${prefix + command}\n\nVideo Sticker Duration 1-9 Seconds`
 }
 exports.NoPpBot = (prefix, command) => {
     return `Send/Reply Image With Caption ${prefix + command}`
@@ -792,12 +792,12 @@ exports.notNum = (q) => {
     return `"${q}", not numbers!`
 }
 exports.menunya = (salam, pushname, botname) =>{
-	return`Hi bro ${pushname} 👋 good ${salam} , 
+	return`IM NOT BOT ${pushname} 💀 ${salam} , 
 i'm ${botname}, this bot is Whatsapp Multi-Device Beta.
 `
 }
 exports.listMenu = (prefix) => {
-    return `╭─❒ 「 FUCK UP THIS FENIX 」 
+    return `FUCK UP
 │○ ${prefix}FENIX
 │○ ${prefix}FENIX2
 │○ ${prefix}FENIX3
