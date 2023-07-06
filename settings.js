@@ -31,19 +31,19 @@ global.antiviewonce = true // anti view once
 global.autobio = false //auto ganti bio
 global.anticall = true //anti call, jika true maka org yg nelpon bot auto di blokir
 global.userRegister = true
-global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
+global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 global.autolevelup = false 
 global.auto_antilink = false //jika true, bot (admin) otomatis menghapus pesan & mengeluarkan member yang mengirim link grup
 global.auto_antilink2 = false  //jika true, bot (admin) otomatis menghapus pesan member yang mengirim link grup
 global.auto_badword = false //jika true, bot (admin) otomatis menghapus pesan & mengeluarkan member yg mengirim kata kasar
 global.auto_badword2 = false  //jika true, bot (admin) otomatis menghapus pesan member yang mengirim kata kasar
-global.auto_antiwame = false  //jika true, bot (admin) otomatis menghapus pesan & mengeluarkan member yang mengirim link grup
-global.auto_antiwame2 = false  //jika true, bot (admin) otomatis menghapus pesan member yang mengirim link grup
+global.auto_antiwame = true  //jika true, bot (admin) otomatis menghapus pesan & mengeluarkan member yang mengirim link grup
+global.auto_antiwame2 = true  //jika true, bot (admin) otomatis menghapus pesan member yang mengirim link grup
 global.autowelcome = true //auto welcome msg all group
-global.autodetectpromote = true //auto detect admin all group
-global.autodetectdemote = true //auto detect un admin all group
+global.autodetectpromote = false  //auto detect admin all group
+global.autodetectdemote = false //auto detect un admin all group
 global.autogoodbye = true //auto goodbye msg all group
-global.groupOnly = true //bot hanya bisa di gunakan dalam grup jika true
+global.groupOnly = false //bot hanya bisa di gunakan dalam grup jika true
 
 //language
 //Available in indonesia , english & spanyol 
@@ -78,9 +78,9 @@ global.author = 'Created By ' + ownername //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.push_kontak_delay = 5000 //5 detik, 1000 = 1 detik
 //type menu for menu
-global.typemenu = 'templateImage' //
+global.typemenulipoz = 'templateImage' //
 //type menu for downloadmenu, animemenu, etc
-global.typemenu2 = 'image' //
+global.typemenulipoz2 = 'image' //
 global.multiplier = 69
 global.limitawal = {
    premium: "Infinity", //unlimited
