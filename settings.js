@@ -29,7 +29,7 @@ global.autoread = true // auto read message
 global.antidelete = true // anti delete
 global.antiviewonce = true // anti view once
 global.autobio = false //auto ganti bio
-global.anticall = true //anti call, jika true maka org yg nelpon bot auto di blokir
+global.anticall = false //anti call, jika true maka org yg nelpon bot auto di blokir
 global.userRegister = true
 global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 global.autolevelup = false 
@@ -61,7 +61,7 @@ global.youtube = "" //bebas asal jan hapus
 global.myweb2 = "" //bebas
 global.email = "DL1999PL814KAD@Gmail.com" //bebas
 global.region = "COLOMBO" //bebas
-global.timezone = 'Asia/Makassar' //  timezone wib
+global.timezone = 'India Standard' //  timezone wib
 global.premium_fitur = ["ai", "openai", "chatgpt"] //tambahin aja sendiri, soalnya gk semua org mau fiturnya premium jadi gw buat kyk gini aja, biar bisa custom fitur mana aja yang bakal di jadiin premium
 global.badword_list = ["asu", "anjir"] //tambahin sendiri kata² nya, gunakan huruf kecil
 global.premium = ['94773010580'] //premium user
@@ -76,7 +76,7 @@ global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = 'FENIXMOTION©' + botname //sticker wm ubah
 global.author = 'Created By ' + ownername //sticker wm ganti nama kalian
 global.sessionName = 'session'
-global.push_kontak_delay = 5000 //5 detik, 1000 = 1 detik
+global.push_kontak_delay = 8000 //5 detik, 1000 = 1 detik
 //type menu for menu
 global.typemenulipoz = 'templateImage' //
 //type menu for downloadmenu, animemenu, etc
