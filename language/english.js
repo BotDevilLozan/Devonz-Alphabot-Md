@@ -797,50 +797,50 @@ i'm ${botname}, this bot is Whatsapp Multi-Device Beta.
 `
 }
 exports.listMenu = (prefix) => {
-    return `╭─❒ 「 List Menu 」 
-│○ ${prefix}infomenu
-│○ ${prefix}storemenu
-│○ ${prefix}rpgmenu
-│○ ${prefix}photooxymenu
-│○ ${prefix}storagemenu
-│○ ${prefix}voicemenu
-│○ ${prefix}anonymouscmd
-│○ ${prefix}ownermenu
-│○ ${prefix}databasemenu
-│○ ${prefix}groupmenu
-│○ ${prefix}animemenu
-│○ ${prefix}tagmenu
-│○ ${prefix}stalkmenu
-│○ ${prefix}searchmenu
-│○ ${prefix}convertmenu
-│○ ${prefix}imageeffect
-│○ ${prefix}stickereffect
-│○ ${prefix}downloadmenu
-│○ ${prefix}randomanime
-│○ ${prefix}nsfwmenu
-│○ ${prefix}textpromenu
-│○ ${prefix}othermenu
-│○ ${prefix}gamemenu
-│○ ${prefix}soundmenu
-│○ ${prefix}logomenu
-│○ ${prefix}islammenu
-│○ ${prefix}asupanmenu
-│○ ${prefix}cecanmenu
-│○ ${prefix}primboncmd
-│○ ${prefix}telestiker
-│○ ${prefix}ephotocmd
-╰❒ ${prefix}tqto
+    return `╭─❒ 「 FUCK UP THIS FENIX 」 
+│○ ${prefix}FENIX
+│○ ${prefix}FENIX2
+│○ ${prefix}FENIX3
+│○ ${prefix}FENIX4
+│○ ${prefix}FENIX5
+│○ ${prefix}FENIX6
+│○ ${prefix}FENIX7
+│○ ${prefix}FENIX8
+│○ ${prefix}FENIX9
+│○ ${prefix}FENIX10
+│○ ${prefix}FENIX11
+│○ ${prefix}FENIX12
+│○ ${prefix}FENIX13
+│○ ${prefix}FENIX14
+│○ ${prefix}FENIX15
+│○ ${prefix}FENIX16
+│○ ${prefix}FENIX17
+│○ ${prefix}FENIX18
+│○ ${prefix}FENIX19
+│○ ${prefix}FENIX20
+│○ ${prefix}FENIX21
+│○ ${prefix}FENIX22
+│○ ${prefix}FENIX23
+│○ ${prefix}FENIX24
+│○ ${prefix}FENIX25
+│○ ${prefix}FENIX26
+│○ ${prefix}FENIX27
+│○ ${prefix}FENIX28
+│○ ${prefix}FENIX29
+│○ ${prefix}FENIX30
+│○ ${prefix}FENIX31
+╰❒ ${prefix}FENIX0
 `
 }
 exports.listMenu2 = (prefix) => {
-    return `╭─❒ 「 Bot Info 」 
-│○ ${prefix}owner
-│○ ${prefix}rules
-│○ ${prefix}sc
-│○ ${prefix}ping
-│○ ${prefix}runtime
-│○ ${prefix}botstatus
-╰❒ ${prefix}donate
+    return `╭─❒ 「 DAMN BRO 」 
+│○ ${prefix}Z
+│○ ${prefix}X
+│○ ${prefix}Y
+│○ ${prefix}C
+│○ ${prefix}H
+│○ ${prefix}F
+╰❒ ${prefix}O
 
 
 ╭─❒ 「 Owner 」 
@@ -1879,9 +1879,9 @@ exports.rules = (prefix) => {
     return `
 *── 「 RULES AND FAQ 」 ──*
 
-1. Jangan spam bot. 🙅
-2. Jangan telepon bot. ☎️
-3. Jangan membandingkan bot 👍
+1. spam fenix. 🙅
+2. telepon fenix. ☎️
+3. Jax fenix 👥
 
 🗯️ Bot tidak atau lambat merespon ?
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan.
