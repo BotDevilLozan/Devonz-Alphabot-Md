@@ -26,20 +26,20 @@ edit sewabot di file settings.js line 24
 // setting 
 global.firtsChat = true //send firts message to new user
 global.autoread = true // auto read message
-global.antidelete = false // anti delete
+global.antidelete = true // anti delete
 global.antiviewonce = true // anti view once
 global.autobio = false //auto ganti bio
-global.anticall = true //anti call, jika true maka org yg nelpon bot auto di blokir
-global.userRegister = false
+global.anticall = false //anti call, jika true maka org yg nelpon bot auto di blokir
+global.userRegister = true
 global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
-global.autolevelup = true
+global.autolevelup = false 
 global.auto_antilink = false //jika true, bot (admin) otomatis menghapus pesan & mengeluarkan member yang mengirim link grup
-global.auto_antilink2 = true  //jika true, bot (admin) otomatis menghapus pesan member yang mengirim link grup
+global.auto_antilink2 = false   //jika true, bot (admin) otomatis menghapus pesan member yang mengirim link grup
 global.auto_badword = false //jika true, bot (admin) otomatis menghapus pesan & mengeluarkan member yg mengirim kata kasar
-global.auto_badword2 = true  //jika true, bot (admin) otomatis menghapus pesan member yang mengirim kata kasar
+global.auto_badword2 = false   //jika true, bot (admin) otomatis menghapus pesan member yang mengirim kata kasar
 global.auto_antiwame = false  //jika true, bot (admin) otomatis menghapus pesan & mengeluarkan member yang mengirim link grup
-global.auto_antiwame2 = true  //jika true, bot (admin) otomatis menghapus pesan member yang mengirim link grup
-global.autowelcome = true //auto welcome msg all group
+global.auto_antiwame2 = false  //jika true, bot (admin) otomatis menghapus pesan member yang mengirim link grup
+global.autowelcome = false  //auto welcome msg all group
 global.autodetectpromote = true //auto detect admin all group
 global.autodetectdemote = true //auto detect un admin all group
 global.autogoodbye = true //auto goodbye msg all group
@@ -48,37 +48,37 @@ global.groupOnly = false //bot hanya bisa di gunakan dalam grup jika true
 //language
 //Available in indonesia , english & spanyol 
 //You can request others language 
-global.language = indonesia //change indonesia to english if you don't understand the language used by the bot
+global.language = english //change indonesia to english if you don't understand the language used by the bot
 //global.language = english // use this for English language
 //global.language = spanyol // use this for Spanyol language
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
+global.botname = "FENIX" //namabot kalian
+global.ownername = "MOTION" //nama kalian
 global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://s.id/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
-global.region = "Indonesia" //bebas
+global.youtube = "prageethlakshan1999814@gmail.com" //bebas asal jan hapus
+global.myweb2 = "prageethlakshan1999814@gmail.com" //bebas
+global.email = "DL1999PL814KAD@Gmail.com" //bebas
+global.region = "srilanka" //bebas
 global.timezone = 'Asia/Makassar' //  timezone wib
 global.premium_fitur = ["ai", "openai", "chatgpt"] //tambahin aja sendiri, soalnya gk semua org mau fiturnya premium jadi gw buat kyk gini aja, biar bisa custom fitur mana aja yang bakal di jadiin premium
 global.badword_list = ["asu", "anjir"] //tambahin sendiri kata² nya, gunakan huruf kecil
-global.premium = ['62887435047326'] //premium user
-global.owner = ["62887435047326", "62887435047326"] //ganti agar fitur owner bisa di gunakan
+global.premium = ['94773010580'] //premium user
+global.owner = ["94773010580", "94773010580"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = owner[0] + "@s.whatsapp.net"
 global.ownernomerr = "+"+ownernomer //tidak perlu di edit
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.tag_owner = "./tag_owner.mp3" // audio ini akan di kirim apabila ada member yang menandai (tag) owner bot 
-global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
+global.background_welcome = "" // maks size 30kb, agar welcome image nya tdk delay
+global.thumbGif = ''
 global.packname = '© ' + botname //sticker wm ubah
 global.author = 'Created By ' + ownername //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.push_kontak_delay = 5000 //5 detik, 1000 = 1 detik
 //type menu for menu
-global.typemenu = 'templateImage' //
+global.typemenu999 = 'templateImage' //
 //type menu for downloadmenu, animemenu, etc
 global.typemenu2 = 'image' //
 global.multiplier = 69
@@ -88,33 +88,33 @@ global.limitawal = {
 }
 global.buttonDefault = [{
    urlButton: {
-      displayText: 'Youtube Channel',
+      displayText: '𝐅𝐞𝐧ɨ𝐱𞋯 𝐌𝐨𝐭𝐢𝐨𝐧',
       url: youtube
    }
 }, {
    urlButton: {
-      displayText: 'Website',
+      displayText: '𝐅𝐞𝐧ɨ𝐱𞋯 𝐌𝐨𝐭𝐢𝐨𝐧',
       url: myweb
    }
 }, {
    quickReplyButton: {
-      displayText: '🏓 Ping',
+      displayText: '𝐅𝐞𝐧ɨ𝐱𞋯 𝐌𝐨𝐭𝐢𝐨𝐧',
       id: '.ping'
    }
 }, {
    quickReplyButton: {
-      displayText: 'Owner 👤',
+      displayText: '𝐅𝐞𝐧ɨ𝐱𞋯 𝐌𝐨𝐭𝐢𝐨𝐧',
       id: '.owner'
    }
 }, {
    quickReplyButton: {
-      displayText: '⚡ Command ⚡',
+      displayText: '𝐅𝐞𝐧ɨ𝐱𞋯 𝐌𝐨𝐭𝐢𝐨𝐧',
       id: '.command'
    }
 }]
 global.buttonDefault2 = [{
    urlButton: {
-      displayText: 'Youtube Channel',
+      displayText: '𝐅𝐞𝐧ɨ𝐱𞋯 𝐌𝐨𝐭𝐢𝐨𝐧',
       url: youtube
    }
 }, {
@@ -305,7 +305,7 @@ global.mess = {
    private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
    bot: 'Fitur Khusus Pengguna Nomor Bot',
    errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
-   wait: '⏳ Sedang Di Proses',
+   wait: '⏳ Sedang Proses',
    lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
    example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
