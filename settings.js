@@ -12,13 +12,13 @@ global.OpenAIKey = "YOUR_KEY" //login to https://platform.openai.com/account/api
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
-   alfa: 'https://api.zeeoneofc.my.id', //apabila link api eror, segera laporkan ke owner
+   alfa: 'http://Wa.me/+94773010580', //apabila link api eror, segera laporkan ke owner
 }
 
 //buy apikey premium 0887435047326
 // Free apikey (silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'V12', // 👉 login https://api.zeeoneofc.my.id to get apikey
+   'http://Wa.me/+94773010580': 'V12', // 👉 login https://api.zeeoneofc.my.id to get apikey
 }
 global.sewabotnya = `
 edit sewabot di file settings.js line 24
@@ -66,17 +66,17 @@ global.premium_fitur = ["ai", "openai", "chatgpt"] //tambahin aja sendiri, soaln
 global.badword_list = ["asu", "anjir"] //tambahin sendiri kata² nya, gunakan huruf kecil
 global.premium = ['94773010580'] //premium user
 global.owner = ["94773010580", "94773010580"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = owner[0] + "@s.whatsapp.net"
+global.ownernomer = owner[0] + "@PROGRAMMER FENIX"
 global.ownernomerr = "+"+ownernomer //tidak perlu di edit
-global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.donasi = "./image/donasi.jpg" // foto donasi di folder image
-global.tag_owner = "./tag_owner.mp3" // audio ini akan di kirim apabila ada member yang menandai (tag) owner bot 
-global.background_welcome = "" // maks size 30kb, agar welcome image nya tdk delay
-global.thumbGif = ''
+global.thumbnail = "./image/loJl.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.donasi = "./image/donasKi.jpg" // foto donasi di folder image
+global.tag_owner = "./tag_ownerB.mp3" // audio ini akan di kirim apabila ada member yang menandai (tag) owner bot 
+global.background_welcome = "(" // maks size 30kb, agar welcome image nya tdk delay
+global.thumbGif = '('
 global.packname = '© ' + botname //sticker wm ubah
 global.author = 'Created By ' + ownername //sticker wm ganti nama kalian
 global.sessionName = 'session'
-global.push_kontak_delay = 5000 //5 detik, 1000 = 1 detik
+global.push_kontak_delay = 8000 //5 detik, 1000 = 1 detik
 //type menu for menu
 global.typemenu999 = 'templateImage' //
 //type menu for downloadmenu, animemenu, etc
@@ -305,7 +305,7 @@ global.mess = {
    private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
    bot: 'Fitur Khusus Pengguna Nomor Bot',
    errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
-   wait: '⏳ Sedang Proses',
+   wait: 'PROGRAMMER FENIX',
    lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
    example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
