@@ -26,7 +26,7 @@ edit sewabot di file settings.js line 24
 // setting 
 global.firtsChat = true //send firts message to new user
 global.autoread = true // auto read message
-global.antidelete = false // anti delete
+global.antidelete = true // anti delete
 global.antiviewonce = true // anti view once
 global.autobio = false //auto ganti bio
 global.anticall = false //anti call, jika true maka org yg nelpon bot auto di blokir
@@ -43,7 +43,7 @@ global.autowelcome = true //auto welcome msg all group
 global.autodetectpromote = true //auto detect admin all group
 global.autodetectdemote = true //auto detect un admin all group
 global.autogoodbye = true //auto goodbye msg all group
-global.groupOnly = true //bot hanya bisa di gunakan dalam grup jika true
+global.groupOnly = false //bot hanya bisa di gunakan dalam grup jika true
 
 //language
 //Available in indonesia , english & spanyol 
